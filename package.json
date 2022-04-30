@@ -18,7 +18,7 @@
     "redux": "^4.2.0",
     "redux-toolkit": "^1.1.2"
   },
-  "homepage": "http://TimeMural.github.io/react-gh-pages",
+  "homepage": "http://WaseemAlghali.github.io/TimeMural",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
