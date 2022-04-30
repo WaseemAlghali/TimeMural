@@ -6,7 +6,8 @@ import empty from "./assets/empty.jpg";
 import { Grid, Typography, Button, Tooltip } from "@mui/material";
 import GlitchClip from "react-glitch-effect/core/GlitchClip";
 import InfiniteIcon from "@mui/icons-material/AllInclusiveRounded";
-
+const url =
+  "https://drive.google.com/uc?export=view&id=1ZBpWLu4WjMSWgFpQJ-w6Ma86H4OYmGsY";
 function App() {
   function actualSeconds() {
     return Math.floor(Math.random() * (59 - 0 + 1) + 0);
