@@ -1,7 +1,7 @@
 import "./App.css";
 import React, { useState, useEffect } from "react";
 import song from "./assets/muralsong.mp3";
-import mural from "./assets/mural.gif";
+import mural from "./assets/muralCompressed.gif";
 import empty from "./assets/empty.jpg";
 import { Grid, Typography, Button, Tooltip } from "@mui/material";
 import GlitchClip from "react-glitch-effect/core/GlitchClip";
